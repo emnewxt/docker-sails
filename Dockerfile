@@ -10,4 +10,4 @@ RUN npm install -g bower
 
 EXPOSE 1337
 
-CMD sails lift
+# CMD sails lift
